@@ -1,3 +1,3 @@
 # fatda
-# Korinnyi Zalkhar
+# Korinnyi Zakhar
 # Group KM-43
